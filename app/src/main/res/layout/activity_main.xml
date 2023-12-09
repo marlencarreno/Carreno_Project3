@@ -60,4 +60,16 @@
         tools:layout_editor_absoluteX="74dp"
         tools:layout_editor_absoluteY="522dp" />
 
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="283dp"
+        android:layout_height="75dp"
+        android:text="Marbellas"
+        android:textAlignment="viewStart"
+        android:textColor="#7286F4"
+        android:textSize="50sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="3dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
